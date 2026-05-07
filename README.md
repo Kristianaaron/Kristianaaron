@@ -1,4 +1,4 @@
-# Hi, I'm Kristin 👋
+# Hi, I'm Kristian 👋
 
 📍 Designer & Technologist | 🎨 Design Systems Builder | 🤖 AI Enthusiast
 
