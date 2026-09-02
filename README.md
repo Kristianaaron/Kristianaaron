@@ -1,11 +1,11 @@
 <img
   src="assets/banner.png"
-  alt="Dark dithered field with stippled concentric rings"
+  alt="Kristian Aaron, designer, local AI enthusiast, tinkerer"
   width="1280"
-  height="280"
+  height="853"
 />
 
-Kristian Aaron. Designer and artist based in London, working across product systems, visual identity, interaction, and generative motion.
+Designer, local AI enthusiast, tinkerer.
 
 <br />
 
