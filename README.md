@@ -1,8 +1,8 @@
 <img
-  src="assets/banner.svg"
-  alt="Kristian Aaron — designer and artist based in London"
+  src="assets/banner.png"
+  alt="Dark dithered field with stippled concentric rings"
   width="1280"
-  height="240"
+  height="280"
 />
 
 Kristian Aaron. Designer and artist based in London, working across product systems, visual identity, interaction, and generative motion.
