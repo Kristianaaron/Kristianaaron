@@ -1,8 +1,8 @@
 <img
   src="assets/banner.png"
   alt="Kristian Aaron, designer, local AI enthusiast, tinkerer"
-  width="1280"
-  height="853"
+  width="1536"
+  height="1024"
 />
 
 Designer, local AI enthusiast, tinkerer.
