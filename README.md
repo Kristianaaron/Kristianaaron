@@ -1,5 +1,5 @@
 <img
-  src="assets/banner.png"
+  src="assets/banner-ascii.png"
   alt="Kristian Aaron, designer, local AI enthusiast, tinkerer"
   width="1280"
   height="220"
