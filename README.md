@@ -1,5 +1,5 @@
 <img
-  src="https://raw.githubusercontent.com/Kristianaaron/Kristianaaron/main/assets/banner-ascii.png?v=1be8ebc"
+  src="https://raw.githubusercontent.com/Kristianaaron/Kristianaaron/1be8ebc/assets/banner-ascii.png"
   alt="Kristian Aaron, designer, local AI enthusiast, tinkerer"
   width="1280"
   height="220"
